@@ -1,0 +1,3 @@
+[rsync]
+    remote = localhost:/tmp/fat-store
+
